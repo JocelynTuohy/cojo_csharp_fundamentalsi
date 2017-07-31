@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/fundamentals/fundamentalsi/bin/Debug/netcoreapp1.1/fundamentalsi.deps.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/fundamentalsi/bin/Debug/netcoreapp1.1/fundamentalsi.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/fundamentalsi/bin/Debug/netcoreapp1.1/fundamentalsi.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/fundamentalsi/bin/Debug/netcoreapp1.1/fundamentalsi.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/fundamentalsi/bin/Debug/netcoreapp1.1/fundamentalsi.pdb
+/home/hermitwife/cojo/dotnetcore/fundamentals/fundamentalsi/obj/Debug/netcoreapp1.1/fundamentalsi.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/fundamentals/fundamentalsi/obj/Debug/netcoreapp1.1/fundamentalsi.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/fundamentalsi/obj/Debug/netcoreapp1.1/fundamentalsi.pdb
